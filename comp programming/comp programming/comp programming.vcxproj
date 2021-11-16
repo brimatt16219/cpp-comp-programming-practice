@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0668ffd1-377e-4889-b710-fe4c0a084519}</ProjectGuid>
-    <RootNamespace>codeforce</RootNamespace>
+    <ProjectGuid>{6eab6f83-3565-4a09-85da-93065dbf61e7}</ProjectGuid>
+    <RootNamespace>compprogramming</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="code force.cpp" />
+    <ClCompile Include="comp programming.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
